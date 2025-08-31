@@ -28,11 +28,6 @@
 
 <p align="left">I'm from Prayagraj<br><br>- 🔭 I’m working as student<br>- 📚 I'm currently learning Next JS<br>- ⚡ In my free time I watch movies</p>
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
 
 
 ###
